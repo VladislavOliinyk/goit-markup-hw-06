@@ -918,6 +918,7 @@ img {
 .sub-btn-field {
   display: flex;
   align-items: center;
+  margin-left: 24px;
 }
 
 .sub-btn-icon {
@@ -953,7 +954,6 @@ img {
   border: none;
   padding: 8px 24px;
   transition: background-color var(--main-animation);
-  margin-left: 24px;
 }
 
 .sub-btn:hover,
