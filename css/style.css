@@ -901,7 +901,7 @@ img {
 /* ============= MODAL ============= */
 
 .sub-footer {
-  margin-left: 80px;
+  margin-left: auto;
 }
 .sub-footer-title {
   font-weight: 500;
